@@ -11,7 +11,7 @@
               <div class="bg-red-600 w-96 h-1 mt-2"></div>
             </li>
             <li>
-              <NuxtLink class="" to="/"
+              <NuxtLink class="" to="#"
                 >KERJA SAMA LUAR NEGERI</NuxtLink
               >
             </li>

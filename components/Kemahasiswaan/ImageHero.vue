@@ -8,7 +8,7 @@
                     - PENGUMUMAN -
                 </h1>
             </div>
-            <div class="bg-red-600 h-12 pt-4">
+            <div class="bg-red-600 h-12 pt-4 mb-24">
                 <p class="font-bold text-white text-xs ml-11">KEMAHASISWAAN &nbsp;/&nbsp; PENGUMUMAN</p>
             </div>
         </section>
