@@ -63,18 +63,18 @@
               <ul class="text-xs text-white">
                 <li>
                   <img class="h-3 float-left mr-5" src="./assets/images/lokasi.png" />
-                  <NuxtLink to="/">Jalan Poros Malino Km. 6, Bontomarannu. Gowa, Sulawesi
+                  <NuxtLink to="#">Jalan Poros Malino Km. 6, Bontomarannu. Gowa, Sulawesi
                     Selatan</NuxtLink>
                 </li>
                 <br />
                 <li>
                   <img class="h-3 float-left mr-3" src="./assets/images/email.png" />
-                  <NuxtLink to="/">engineering@unhas.ac.id</NuxtLink>
+                  <NuxtLink to="#">engineering@unhas.ac.id</NuxtLink>
                 </li>
                 <br />
                 <li>
                   <img class="h-3 float-left mr-5" src="./assets/images/call.png" />
-                  <NuxtLink to="/">727-727-727-727</NuxtLink>
+                  <NuxtLink to="#">727-727-727-727</NuxtLink>
                 </li>
               </ul>
             </nav>
@@ -86,53 +86,53 @@
             <nav class="flex flex-wrap gap-5">
               <ul class="text-xs text-white">
                 <li>
-                  <NuxtLink to="/">Teknik Mesin</NuxtLink>
+                  <NuxtLink to="#">Teknik Mesin</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Sipil</NuxtLink>
+                  <NuxtLink to="#">Teknik Sipil</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Perkapalan</NuxtLink>
+                  <NuxtLink to="#">Teknik Perkapalan</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Elektro</NuxtLink>
+                  <NuxtLink to="#">Teknik Elektro</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Arsitektur</NuxtLink>
+                  <NuxtLink to="#">Teknik Arsitektur</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Geologi</NuxtLink>
+                  <NuxtLink to="#">Teknik Geologi</NuxtLink>
                 </li>
                 <br />
               </ul>
               <ul class="text-xs text-white">
                 <li>
-                  <NuxtLink to="/">Teknik Kelautan</NuxtLink>
+                  <NuxtLink to="#">Teknik Kelautan</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Sistem Perkapalan</NuxtLink>
+                  <NuxtLink to="#">Teknik Sistem Perkapalan</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Perencanaan Wilayah Kota</NuxtLink>
+                  <NuxtLink to="#">Teknik Perencanaan Wilayah Kota</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Pertambangan</NuxtLink>
+                  <NuxtLink to="#">Teknik Pertambangan</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Informatika</NuxtLink>
+                  <NuxtLink to="#">Teknik Informatika</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Teknik Lingkungan</NuxtLink>
+                  <NuxtLink to="#">Teknik Lingkungan</NuxtLink>
                 </li>
                 <br />
               </ul>
@@ -145,23 +145,23 @@
             <nav>
               <ul class="text-xs text-white">
                 <li>
-                  <NuxtLink to="/">Sejarah</NuxtLink>
+                  <NuxtLink to="#">Sejarah</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Visi dan Misi</NuxtLink>
+                  <NuxtLink to="#">Visi dan Misi</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Manajemen</NuxtLink>
+                  <NuxtLink to="#">Manajemen</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Peta Kampus</NuxtLink>
+                  <NuxtLink to="#">Peta Kampus</NuxtLink>
                 </li>
                 <br />
                 <li>
-                  <NuxtLink to="/">Pimpinan Fakultas</NuxtLink>
+                  <NuxtLink to="#">Pimpinan Fakultas</NuxtLink>
                 </li>
                 <br />
               </ul>
